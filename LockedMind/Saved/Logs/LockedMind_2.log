@@ -1,0 +1,1612 @@
+﻿Log file open, 05/03/23 15:30:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LockedMind
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.162047
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin RiderLink
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz, GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Engine.ini]
+[2023.05.03-13.30.05:933][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Engine.ini]
+[2023.05.03-13.30.05:933][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Engine.ini]
+[2023.05.03-13.30.05:933][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.05.03-13.30.05:933][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Engine.ini]
+[2023.05.03-13.30.05:934][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.05.03-13.30.05:934][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.05.03-13.30.05:934][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.05.03-13.30.05:934][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.05.03-13.30.05:934][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.05.03-13.30.05:934][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.05.03-13.30.05:934][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.05.03-13.30.05:934][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.05.03-13.30.05:934][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.05.03-13.30.05:934][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.05.03-13.30.05:934][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.05.03-13.30.05:934][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.05.03-13.30.05:934][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.05.03-13.30.05:934][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.05.03-13.30.05:934][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Engine.ini]
+[2023.05.03-13.30.05:934][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Engine.ini]
+[2023.05.03-13.30.05:938][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Scalability.ini]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Scalability.ini]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Scalability.ini]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Scalability.ini]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Scalability.ini]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Scalability.ini]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.05.03-13.30.05:938][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Scalability.ini]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Scalability.ini]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.05.03-13.30.05:939][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.03-13.30.05:939][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.05.03-13.30.05:939][  0]LogHAL: Display: Platform has ~ 16 GB [16945225728 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.03-13.30.05:939][  0]LogInit: Going up to parent DeviceProfile []
+[2023.05.03-13.30.05:939][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Scalability.ini]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Scalability.ini]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Scalability.ini]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Scalability.ini]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Scalability.ini]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Scalability.ini]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Scalability.ini]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.05.03-13.30.05:939][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.05.03-13.30.05:940][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Scalability.ini]
+[2023.05.03-13.30.05:940][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.05.03-13.30.05:940][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.05.03-13.30.05:940][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.05.03-13.30.05:940][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.03-13.30.05:940][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.05.03-13.30.05:940][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.05.03-13.30.05:940][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.05.03-13.30.05:940][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Engine.ini]
+[2023.05.03-13.30.05:940][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Config/Windows/Editor.ini]
+[2023.05.03-13.30.05:940][  0]LogInit: Computer: RNSS20607
+[2023.05.03-13.30.05:940][  0]LogInit: User: gdeleporte
+[2023.05.03-13.30.05:940][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.05.03-13.30.05:940][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.03-13.30.05:940][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2023.05.03-13.30.05:940][  0]LogMemory: Platform Memory Stats for Windows
+[2023.05.03-13.30.05:940][  0]LogMemory: Process Physical Memory: 149.14 MB used, 149.14 MB peak
+[2023.05.03-13.30.05:940][  0]LogMemory: Process Virtual Memory: 125.45 MB used, 125.45 MB peak
+[2023.05.03-13.30.05:940][  0]LogMemory: Physical Memory: 7866.85 MB used,  8293.38 MB free, 16160.23 MB total
+[2023.05.03-13.30.05:940][  0]LogMemory: Virtual Memory: 134212344.00 MB used,  5386.11 MB free, 134217728.00 MB total
+[2023.05.03-13.30.05:943][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.05.03-13.30.05:954][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.05.03-13.30.05:955][  0]LogInit: Using OS detected language (fr-FR).
+[2023.05.03-13.30.05:955][  0]LogInit: Using OS detected locale (fr-FR).
+[2023.05.03-13.30.05:956][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2023.05.03-13.30.05:956][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2023.05.03-13.30.05:956][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2023.05.03-13.30.05:956][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2023.05.03-13.30.05:956][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2023.05.03-13.30.05:956][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2023.05.03-13.30.05:956][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2023.05.03-13.30.05:956][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2023.05.03-13.30.05:957][  0]LogInit: Setting process to per monitor DPI aware
+[2023.05.03-13.30.05:966][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.03-13.30.05:978][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.03-13.30.05:978][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.03-13.30.06:050][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.05.03-13.30.06:051][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.05.03-13.30.06:051][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.05.03-13.30.06:051][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.05.03-13.30.06:051][  0]LogD3D11RHI: D3D11 adapters:
+[2023.05.03-13.30.06:129][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2023.05.03-13.30.06:129][  0]LogD3D11RHI:       8043/0/8080 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.05.03-13.30.06:175][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 750' (Feature Level 11_0)
+[2023.05.03-13.30.06:175][  0]LogD3D11RHI:       128/0/8080 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.05.03-13.30.06:177][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.05.03-13.30.06:177][  0]LogD3D11RHI:       0/0/8080 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.05.03-13.30.06:177][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.05.03-13.30.06:177][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070
+[2023.05.03-13.30.06:177][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.05.03-13.30.06:177][  0]LogD3D11RHI:     DeviceId    : 2484
+[2023.05.03-13.30.06:177][  0]LogD3D11RHI:     SubSysId    : 88dc103c
+[2023.05.03-13.30.06:177][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.05.03-13.30.06:177][  0]LogD3D11RHI:     DedicatedVideoMemory : 8433696768 bytes
+[2023.05.03-13.30.06:177][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.03-13.30.06:177][  0]LogD3D11RHI:     SharedSystemMemory : 8472612864 bytes
+[2023.05.03-13.30.06:177][  0]LogD3D11RHI:     AdapterLuid : 0 57753
+[2023.05.03-13.30.06:181][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.05.03-13.30.06:181][  0]LogD3D11RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.03-13.30.06:181][  0]LogWindows: EnumDisplayDevices:
+[2023.05.03-13.30.06:181][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:1 D:1)
+[2023.05.03-13.30.06:181][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2023.05.03-13.30.06:181][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2023.05.03-13.30.06:181][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2023.05.03-13.30.06:182][  0]LogWindows:    4. 'Intel(R) UHD Graphics 750' (P:0 D:0)
+[2023.05.03-13.30.06:182][  0]LogWindows:    5. 'Intel(R) UHD Graphics 750' (P:0 D:0)
+[2023.05.03-13.30.06:182][  0]LogWindows:    6. 'Intel(R) UHD Graphics 750' (P:0 D:0)
+[2023.05.03-13.30.06:182][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.05.03-13.30.06:182][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2023.05.03-13.30.06:182][  0]LogD3D11RHI:   Driver Version: 472.91 (internal:30.0.14.7291, unified:472.91)
+[2023.05.03-13.30.06:182][  0]LogD3D11RHI:      Driver Date: 12-13-2021
+[2023.05.03-13.30.06:182][  0]LogRHI: Texture pool is 5630 MB (70% of 8043 MB)
+[2023.05.03-13.30.06:182][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.05.03-13.30.06:182][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070
+[2023.05.03-13.30.06:182][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.05.03-13.30.06:182][  0]LogD3D11RHI:     DeviceId    : 2484
+[2023.05.03-13.30.06:182][  0]LogD3D11RHI:     SubSysId    : 88dc103c
+[2023.05.03-13.30.06:182][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.05.03-13.30.06:182][  0]LogD3D11RHI:     DedicatedVideoMemory : 8433696768 bytes
+[2023.05.03-13.30.06:182][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.03-13.30.06:182][  0]LogD3D11RHI:     SharedSystemMemory : 8472612864 bytes
+[2023.05.03-13.30.06:182][  0]LogD3D11RHI:     AdapterLuid : 0 57753
+[2023.05.03-13.30.06:236][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.05.03-13.30.06:236][  0]LogD3D11RHI: Async texture creation enabled
+[2023.05.03-13.30.06:236][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.05.03-13.30.06:236][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2023.05.03-13.30.06:249][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.05.03-13.30.06:264][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.05.03-13.30.06:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.05.03-13.30.06:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.05.03-13.30.06:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.05.03-13.30.06:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.05.03-13.30.06:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.05.03-13.30.06:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.05.03-13.30.06:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.05.03-13.30.06:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.05.03-13.30.06:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.05.03-13.30.06:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.05.03-13.30.06:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.05.03-13.30.06:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.05.03-13.30.06:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.05.03-13.30.06:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.05.03-13.30.06:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.05.03-13.30.06:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.05.03-13.30.06:495][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.05.03-13.30.06:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.05.03-13.30.06:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.05.03-13.30.06:505][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.05.03-13.30.06:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.05.03-13.30.06:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.05.03-13.30.06:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.05.03-13.30.06:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.05.03-13.30.06:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.05.03-13.30.06:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.05.03-13.30.06:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.05.03-13.30.06:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.05.03-13.30.06:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.05.03-13.30.06:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.05.03-13.30.06:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.05.03-13.30.06:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.05.03-13.30.06:549][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.05.03-13.30.06:553][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.03-13.30.06:569][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.05.03-13.30.06:586][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.05.03-13.30.06:586][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Intermediate/Shaders/WorkingDirectory/18692/).
+[2023.05.03-13.30.06:586][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/g.deleporte/AppData/Local/Temp/UnrealShaderWorkingDir/A38D5456415350120B2178B393455B66/'.
+[2023.05.03-13.30.06:586][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.05.03-13.30.06:586][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.05.03-13.30.06:586][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.05.03-13.30.07:102][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.05.03-13.30.07:146][  0]LogDerivedDataCache: Loaded boot cache 0.04s 96MB C:/Users/g.deleporte/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.05.03-13.30.07:146][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/g.deleporte/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.05.03-13.30.07:146][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/g.deleporte/Documents/LockedMind/LockedMind/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.03-13.30.07:146][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.05.03-13.30.07:146][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/g.deleporte/Documents/LockedMind/LockedMind/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.03-13.30.07:146][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.05.03-13.30.07:158][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.05.03-13.30.07:158][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.03-13.30.07:158][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.05.03-13.30.07:171][  0]LogDerivedDataCache: Speed tests for C:/Users/g.deleporte/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.05.03-13.30.07:171][  0]LogDerivedDataCache: Display: Performance to C:/Users/g.deleporte/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=2185.44MBs, RandomWriteSpeed=71.99MBs. Assigned SpeedClass 'Local'
+[2023.05.03-13.30.07:171][  0]LogDerivedDataCache: Using Local data cache path C:/Users/g.deleporte/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.05.03-13.30.07:171][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.05.03-13.30.07:171][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.05.03-13.30.07:203][  0]LogSlate: Using FreeType 2.10.0
+[2023.05.03-13.30.07:204][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.03-13.30.07:222][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2023.05.03-13.30.07:384][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.03-13.30.07:384][  0]LogInit: Active device profile: [0000026E4D698900][0000026E44314440 49] Windows
+[2023.05.03-13.30.07:384][  0]LogInit: Profiles: [0000026E4D698900][0000026E44314440 49] Windows, [0000026E4D657800][0000026E44318580 49] WindowsNoEditor, [0000026E4D69B500][0000026E4431C6C0 49] WindowsServer, [0000026E4D654E00][0000026E44320800 49] WindowsClient, [0000026E4D69B800][0000026E49A70940 49] IOS, [0000026E4D656800][0000026E49A78AC0 49] iPadAir, [0000026E4D69A000][0000026E49A7CC40 49] iPadAir2, [0000026E4D60CA00][0000026E49A84F00 49] IPadPro, [0000026E4D60CB00][0000026E49A80F40 49] iPadAir3, [0000026E4D655900][0000026E49A890C0 49] iPadAir4, [0000026E4D60F400][0000026E49A8D240 49] iPadMini2, [0000026E4D656A00][0000026E49A913C0 49] iPadMini3, [0000026E4D60D700][0000026E49A95540 49] iPadMini4, [0000026E4D699100][0000026E49A996C0 49] iPadMini5, [0000026E4D62C300][0000026E4E39F980 49] iPhone6, [0000026E4D62C400][0000026E49A9D9C0 49] iPodTouch6, [0000026E4D60BF00][0000026E4E3A6100 49] iPhone7, [0000026E4D60BE00][0000026E4E3A2140 49] iPodTouch7, [0000026E4D656000][0000026E4E3AA2C0 49] iPhone5S, [0000026E4D609A00][0000026E4E3AE440 49] iPhone6Plus, [0000026E4D62C200][0000026E4E3B25C0 49] iPhone6S, [0000026E4D608600][0000026E4E426740 49] iPhone6SPlus, [0000026E4D62E900][0000026E49A74880 49] iPhone7Plus, [0000026E4D60B100][0000026E4E44E9C0 49] iPhoneSE, [0000026E4D62E200][0000026E4E472B00 49] iPhone8, [0000026E4D60BB00][0000026E4340CC80 49] iPhone8Plus, [0000026E4D62CA00][0000026E432E0E00 49] iPhoneX, [0000026E4D609400][0000026E432E4F80 49] iPhoneXS, [0000026E4D62F900][0000026E4E59B100 49] iPhoneXSMax, [0000026E4D608900][0000026E4E59F280 49] iPhoneXR, [0000026E4D62EF00][0000026E4E5A3400 49] iPhone11, [0000026E4D609300][0000026E4E5A7580 49] iPhone11Pro, [0000026E4D62D000][0000026E4E5AB700 49] iPhone11ProMax, [0000026E4D60AA00][0000026E4E5B3880 49] iPhoneSE2, [0000026E4D62D400][0000026E4E5BBA00 49] iPhone12Mini, [0000026E4D60A400][0000026E4E5CBB80 49] iPhone12, [0000026E4D62CD00][0000026E4E5CE180 49] iPhone12Pro, [0000026E4D60AB00][0000026E4E5D2300 49] iPhone12ProMax, [0000026E4D62F000][0000026E4E5D6480 49] iPadPro105, [0000026E4D608700][0000026E4E5DA600 49] iPadPro129, [0000026E4D62E800][0000026E4709C780 49] iPadPro97, [0000026E4D60A600][0000026E470A0900 49] iPadPro2_129, [0000026E4D62FC00][0000026E43408A40 49] iPad5, [0000026E4D60A200][0000026E470B4B80 49] iPad6, [0000026E4D62CF00][0000026E470B8CC0 49] iPad7, [0000026E4D60AD00][0000026E496E8E40 49] iPad8, [0000026E4D62D100][0000026E4E4EEFC0 49] iPadPro11, [0000026E4D609600][0000026E4E4F3140 49] iPadPro2_11, [0000026E4D62F400][0000026E4E4F72C0 49] iPadPro3_129, [0000026E4D60A800][0000026E496ED440 49] iPadPro4_129, [0000026E4D62FA00][0000026E496F15C0 49] AppleTV, [0000026E4D60A100][0000026E47099740 49] AppleTV4K, [0000026E4D62DF00][0000026E434038C0 49] TVOS, [0000026E4D60B400][0000026E4E421A40 49] Mac, [0000026E4D62F800][0000026E496F5BC0 49] MacClient, [0000026E4D609E00][0000026E496F81C0 49] MacNoEditor, [0000026E4D62FF00][0000026E432C4340 49] MacServer, [0000026E4D60B500][0000026E43B1E4C0 49] Linux, [0000026E4D62CC00][0000026E43B22640 49] LinuxAArch64, [0000026E4D60AF00][0000026E4E5587C0 49] LinuxNoEditor, [0000026E4D62CB00][0000026E4E55C940 49] LinuxAArch64NoEditor, [0000026E4D60B700][0000026E4E560AC0 49] LinuxClient, [0000026E4D62DA00][0000026E470BCC00 49] LinuxAArch64Client, [0000026E4D609000][0000026E4E590D40 49] LinuxServer, [0000026E4D62E500][0000026E4F620E80 49] LinuxAArch64Server, [0000026E4D609900][0000026E4F636FC0 49] Android, [0000026E4D62D300][0000026E4F769140 49] Android_Low, [0000026E4D60A700][0000026E4F76D2C0 49] Android_Mid, [0000026E4D62EB00][0000026E4F771440 49] Android_High, [0000026E4D60B800][0000026E4F7755C0 49] Android_Default, [0000026E4D62D600][0000026E4F779740 49] Android_Adreno4xx, [0000026E4D609500][0000026E4F77D8C0 49] Android_Adreno5xx_Low, [0000026E4D60F600][0000026E4F781A40 49] Android_Adreno5xx, [0000026E4D655800][0000026E4F785BC0 49] Android_Adreno6xx, [0000026E4D60D200][0000026E4F7881C0 49] Android_Adreno6xx_Vulkan, [0000026E4D657C00][0000026E4F78C340 49] Android_Mali_T6xx, [0000026E4D60D100][0000026E4F8004C0 49] Android_Mali_T7xx, [0000026E4D655600][0000026E4F818640 49] Android_Mali_T8xx, [0000026E4D60DE00][0000026E4F8247C0 49] Android_Mali_G71, [0000026E4D654500][0000026E4F828940 49] Android_Mali_G72, [0000026E4D60C800][0000026E4F82CAC0 49] Android_Mali_G72_Vulkan, [0000026E4D655300][0000026E4E4A0C40 49] Android_Mali_G76, [0000026E4D60C100][0000026E4F764D80 49] Android_Mali_G76_Vulkan, [0000026E4D655F00][0000026E4E4A4EC0 49] Android_Mali_G77, [0000026E4D60D000][0000026E4E4A9000 49] Android_Mali_G77_Vulkan, [0000026E4D654A00][0000026E4E4B1140 49] Android_Mali_G78, [0000026E4D60EC00][0000026E4E4B92C0 49] Android_Mali_G78_Vulkan, [0000026E4D657600][0000026E4E4BD440 49] Android_Mali_G710, [0000026E4D60EA00][0000026E432B35C0 49] Android_Mali_G710_Vulkan, [0000026E4D657F00][0000026E4E4C1740 49] Android_Vulkan_SM5, [0000026E4D60FB00][0000026E4E4C58C0 49] Android_PowerVR_G6xxx, [0000026E4D657B00][0000026E4E4C9A40 49] Android_PowerVR_GT7xxx, [0000026E4D60F900][0000026E4E4CDBC0 49] Android_PowerVR_GE8xxx, [0000026E4D654C00][0000026E4E4D01C0 49] Android_PowerVR_GM9xxx, [0000026E4D60E700][0000026E4E4D4340 49] Android_PowerVR_GM9xxx_Vulkan, [0000026E4D656700][0000026E4E4D84C0 49] Android_TegraK1, [0000026E4D60C900][0000026E4E4DC640 49] Android_Unknown_Vulkan, [0000026E4D655D00][0000026E4E4E07C0 49] Lumin, [0000026E4D60C500][0000026E432B6940 49] Lumin_Desktop, [0000026E4D657300][0000026E4E4ACAC0 49] HoloLens, 
+[2023.05.03-13.30.07:471][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.05.03-13.30.07:471][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.05.03-13.30.07:471][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.05.03-13.30.07:471][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.05.03-13.30.07:471][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.05.03-13.30.07:481][  0]LogNetVersion: LockedMind 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1775436646)
+[2023.05.03-13.30.07:776][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.05.03-13.30.07:844][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.05.03-13.30.07:849][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.05.03-13.30.07:849][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.05.03-13.30.07:849][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.05.03-13.30.08:030][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 81DA94A34154052AAAE2C0844C787E7F | Instance: 59F948EA423BA80B7645AAA4D45B6491 (RNSS20607-18692).
+[2023.05.03-13.30.08:104][  0]LogPython: Using Python 3.7.7
+[2023.05.03-13.30.08:441][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.05.03-13.30.08:447][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.05.03-13.30.08:571][  0]SourceControl: Source control is disabled
+[2023.05.03-13.30.08:571][  0]SourceControl: Source control is disabled
+[2023.05.03-13.30.08:573][  0]SourceControl: Source control is disabled
+[2023.05.03-13.30.08:575][  0]SourceControl: Source control is disabled
+[2023.05.03-13.30.08:579][  0]SourceControl: Source control is disabled
+[2023.05.03-13.30.08:583][  0]LogUProjectInfo: Found projects:
+[2023.05.03-13.30.08:676][  0]LogOpenImageDenoise: OIDN starting up
+[2023.05.03-13.30.08:698][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.03-13.30.08:716][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.03-13.30.08:717][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.03-13.30.08:786][  0]LogCollectionManager: Loaded 0 collections in 0.000549 seconds
+[2023.05.03-13.30.08:802][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/Collections/' took 0.00s
+[2023.05.03-13.30.08:802][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/Developers/gdeleporte/Collections/' took 0.00s
+[2023.05.03-13.30.08:802][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/Collections/' took 0.00s
+[2023.05.03-13.30.08:802][  0]LogOcInput: OculusInput pre-init called
+[2023.05.03-13.30.08:976][  0]LogEngine: Initializing Engine...
+[2023.05.03-13.30.08:978][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.05.03-13.30.08:978][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.05.03-13.30.08:978][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.05.03-13.30.08:979][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.05.03-13.30.09:077][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.03-13.30.09:083][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.05.03-13.30.09:091][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.05.03-13.30.09:093][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.05.03-13.30.09:094][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.05.03-13.30.09:094][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.05.03-13.30.09:094][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.05.03-13.30.09:094][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-13.30.09:094][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-13.30.09:094][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-13.30.09:094][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-13.30.09:094][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.03-13.30.09:094][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.03-13.30.09:094][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.03-13.30.09:094][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-13.30.09:095][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-13.30.09:095][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-13.30.09:095][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-13.30.09:095][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.03-13.30.09:101][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.03-13.30.09:101][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.05.03-13.30.09:140][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2023.05.03-13.30.09:142][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-13.30.09:144][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-13.30.09:144][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-13.30.09:145][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.03-13.30.09:145][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.03-13.30.09:145][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.03-13.30.09:146][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.03-13.30.09:146][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.03-13.30.09:146][  0]LogInit: FAudioDevice initialized.
+[2023.05.03-13.30.09:147][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.05.03-13.30.09:147][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.05.03-13.30.09:197][  0]LogDerivedDataCache: Saved boot cache 0.05s 96MB C:/Users/g.deleporte/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.05.03-13.30.09:199][  0]LogInit: Texture streaming: Enabled
+[2023.05.03-13.30.09:206][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.05.03-13.30.09:208][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.05.03-13.30.09:208][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.05.03-13.30.09:210][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.05.03-13.30.09:233][  0]LogInit: Transaction tracking system initialized
+[2023.05.03-13.30.09:246][  0]BlueprintLog: New page: Editor Load
+[2023.05.03-13.30.09:281][  0]LocalizationService: Localization service is disabled
+[2023.05.03-13.30.09:297][  0]TimingProfiler: Initialize
+[2023.05.03-13.30.09:297][  0]TimingProfiler: OnSessionChanged
+[2023.05.03-13.30.09:297][  0]LoadingProfiler: Initialize
+[2023.05.03-13.30.09:297][  0]LoadingProfiler: OnSessionChanged
+[2023.05.03-13.30.09:297][  0]NetworkingProfiler: Initialize
+[2023.05.03-13.30.09:297][  0]NetworkingProfiler: OnSessionChanged
+[2023.05.03-13.30.09:297][  0]MemoryProfiler: Initialize
+[2023.05.03-13.30.09:297][  0]MemoryProfiler: OnSessionChanged
+[2023.05.03-13.30.09:389][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.05.03-13.30.09:389][  0]LogCook: Display: Mobile HDR setting 1
+[2023.05.03-13.30.09:433][  0]LogFileCache: Scanning file cache for directory 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/' took 0.00s
+[2023.05.03-13.30.09:639][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.05.03-13.30.09:641][  0]SourceControl: Source control is disabled
+[2023.05.03-13.30.09:641][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.284
+[2023.05.03-13.30.09:641][  0]Cmd: MAP LOAD FILE="C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.03-13.30.09:641][  0]LightingResults: New page: Lighting Build
+[2023.05.03-13.30.09:642][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-13.30.09:642][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-13.30.09:642][  0]MapCheck: New page: Map Check
+[2023.05.03-13.30.09:642][  0]LightingResults: New page: Lighting Build
+[2023.05.03-13.30.09:653][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-13.30.09:655][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.03-13.30.09:846][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2023.05.03-13.30.09:847][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.03-13.30.09:854][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.03-13.30.09:860][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.03-13.30.09:860][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.03-13.30.09:860][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,088ms to complete.
+[2023.05.03-13.30.09:860][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.219
+[2023.05.03-13.30.09:862][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.504
+[2023.05.03-13.30.09:986][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.30.09:990][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.30.09:993][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.30.09:997][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.30.10:006][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0065 seconds. Added 3822 classes and 928 folders.
+[2023.05.03-13.30.10:007][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.05.03-13.30.10:008][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.05.03-13.30.10:008][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:008][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.05.03-13.30.10:008][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:008][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.05.03-13.30.10:008][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2023.05.03-13.30.10:009][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.05.03-13.30.10:009][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:009][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.05.03-13.30.10:009][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:009][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.05.03-13.30.10:009][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.05.03-13.30.10:009][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.05.03-13.30.10:009][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:009][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.05.03-13.30.10:009][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:009][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.05.03-13.30.10:009][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.05.03-13.30.10:009][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.05.03-13.30.10:009][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:009][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.05.03-13.30.10:009][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:009][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.05.03-13.30.10:009][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.05.03-13.30.10:009][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.05.03-13.30.10:009][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:010][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.05.03-13.30.10:010][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:010][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.05.03-13.30.10:010][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.05.03-13.30.10:010][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.05.03-13.30.10:010][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:010][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.05.03-13.30.10:010][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:010][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.05.03-13.30.10:010][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2023.05.03-13.30.10:010][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.05.03-13.30.10:010][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:010][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.05.03-13.30.10:010][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:010][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.05.03-13.30.10:010][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2023.05.03-13.30.10:010][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.05.03-13.30.10:010][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:010][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.05.03-13.30.10:010][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:010][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.05.03-13.30.10:010][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.05.03-13.30.10:011][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.05.03-13.30.10:011][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:011][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.05.03-13.30.10:011][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:011][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.05.03-13.30.10:011][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2023.05.03-13.30.10:011][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.05.03-13.30.10:011][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:011][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.05.03-13.30.10:011][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:011][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.05.03-13.30.10:011][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.05.03-13.30.10:011][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.05.03-13.30.10:012][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:012][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.05.03-13.30.10:012][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:012][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.05.03-13.30.10:012][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.05.03-13.30.10:012][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.05.03-13.30.10:012][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:012][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.05.03-13.30.10:012][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:012][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.05.03-13.30.10:012][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.05.03-13.30.10:012][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.05.03-13.30.10:012][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:012][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.05.03-13.30.10:012][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:012][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.05.03-13.30.10:012][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2023.05.03-13.30.10:012][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.05.03-13.30.10:012][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:012][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.05.03-13.30.10:012][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:012][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.05.03-13.30.10:012][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2023.05.03-13.30.10:013][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.05.03-13.30.10:013][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:013][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.05.03-13.30.10:013][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:013][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.05.03-13.30.10:013][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2023.05.03-13.30.10:013][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.05.03-13.30.10:013][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:013][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.05.03-13.30.10:013][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:013][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.05.03-13.30.10:013][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.05.03-13.30.10:013][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.05.03-13.30.10:013][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:013][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.05.03-13.30.10:013][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:013][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.05.03-13.30.10:013][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.05.03-13.30.10:014][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.05.03-13.30.10:014][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:014][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.05.03-13.30.10:014][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:014][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.05.03-13.30.10:014][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.05.03-13.30.10:014][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.05.03-13.30.10:014][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:014][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.05.03-13.30.10:014][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:014][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.05.03-13.30.10:014][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.05.03-13.30.10:014][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.05.03-13.30.10:014][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:014][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.05.03-13.30.10:014][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:014][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.05.03-13.30.10:014][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2023.05.03-13.30.10:014][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.05.03-13.30.10:014][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:014][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.05.03-13.30.10:014][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:014][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.05.03-13.30.10:015][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.05.03-13.30.10:015][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.05.03-13.30.10:015][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:015][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.05.03-13.30.10:015][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:015][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.05.03-13.30.10:015][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.05.03-13.30.10:015][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.05.03-13.30.10:015][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:015][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.05.03-13.30.10:015][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:015][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.05.03-13.30.10:015][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.05.03-13.30.10:015][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.05.03-13.30.10:015][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:015][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.05.03-13.30.10:015][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:015][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.05.03-13.30.10:015][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.05.03-13.30.10:016][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.05.03-13.30.10:016][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:016][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.05.03-13.30.10:016][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:016][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.05.03-13.30.10:016][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.05.03-13.30.10:016][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.05.03-13.30.10:016][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.03-13.30.10:016][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.05.03-13.30.10:016][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.03-13.30.10:016][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.05.03-13.30.10:016][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2023.05.03-13.30.10:035][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.05.03-13.30.10:036][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.05.03-13.30.10:065][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.03-13.30.10:066][  0]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.03-13.30.10:067][  0]LogSlate: Took 0.000069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.05.03-13.30.10:122][  0]LogRenderer: Reallocating scene render targets to support 1616x572 Format 10 NumSamples 1 (Frame:1).
+[2023.05.03-13.30.10:220][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.05.03-13.30.10:220][  0]LogLoad: (Engine Initialization) Total time: 4.86 seconds
+[2023.05.03-13.30.10:220][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.05.03-13.30.10:256][  0]LogAssetRegistry: Asset discovery search completed in 3.0349 seconds
+[2023.05.03-13.30.10:259][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.05.03-13.30.10:261][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.03-13.30.10:367][  4]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.03-13.30.20:046][138]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.03-13.30.20:060][138]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.03-13.30.20:194][138]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2023.05.03-13.30.20:777][138]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.03-13.30.20:874][139]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.03-13.30.21:593][210]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/BP_InspectableItemParent.BP_InspectableItemParent
+[2023.05.03-13.31.24:768][235]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.03-13.31.24:817][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.03-13.31.24:897][235]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.05.03-13.31.25:194][261]LogSavePackage: Moving 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/FirstPersonCharacterAFCC96604F5F48372095D0AAE66A374F.tmp' to 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.03-13.31.25:206][261]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.03-13.31.25:206][261]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.03-13.31.37:305][563]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.05.03-13.31.43:624][128]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.03-13.31.43:671][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.03-13.31.44:448][192]LogSavePackage: Moving 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/FirstPersonCharacter154C4F094564CFED4F9686830A8BCB98.tmp' to 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.03-13.31.44:459][192]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.03-13.31.44:459][192]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.03-13.33.16:819][795]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.03-13.33.16:864][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.05.03-13.33.17:446][834]LogSavePackage: Moving 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/FirstPersonCharacter9ACE4E91468354CAF9FE51B1C7A86246.tmp' to 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.03-13.33.17:456][834]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.03-13.33.17:456][834]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.03-13.33.20:328][143]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.03-13.33.20:334][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-13.33.20:334][143]PIE: New page: PIE session: FirstPersonExampleMap (3 mai 2023 à 17:33:20)
+[2023.05.03-13.33.20:335][143]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.05.03-13.33.20:336][143]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.05.03-13.33.20:336][143]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.03-13.33.20:346][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010207s)
+[2023.05.03-13.33.20:347][143]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.03-13.33.20:348][143]LogPlayLevel: PIE: World Init took: (0.001406s)
+[2023.05.03-13.33.20:348][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011803s)
+[2023.05.03-13.33.20:367][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.03-13.33.20:367][143]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.05.03-13.33.20:367][143]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-13.33.20:367][143]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-13.33.20:367][143]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-13.33.20:367][143]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-13.33.20:367][143]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.03-13.33.20:367][143]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.03-13.33.20:367][143]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.03-13.33.20:367][143]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-13.33.20:368][143]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-13.33.20:368][143]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-13.33.20:368][143]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-13.33.20:368][143]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.03-13.33.20:370][143]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.03-13.33.20:370][143]LogAudioMixer: Display: 1: FrontRight
+[2023.05.03-13.33.20:391][143]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2023.05.03-13.33.20:392][143]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-13.33.20:392][143]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-13.33.20:392][143]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-13.33.20:392][143]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.03-13.33.20:392][143]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.03-13.33.20:392][143]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.03-13.33.20:393][143]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.03-13.33.20:393][143]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.03-13.33.20:393][143]LogInit: FAudioDevice initialized.
+[2023.05.03-13.33.20:393][143]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2023.05.03-13.33.20:399][143]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.03-13.33.20:401][143]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.03-15.33.20
+[2023.05.03-13.33.20:401][143]LogWorld: Bringing up level for play took: 0.001249
+[2023.05.03-13.33.20:401][143]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2023.05.03-13.33.20:406][143]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2023.05.03-13.33.20:407][143]PIE: Server logged in
+[2023.05.03-13.33.20:408][143]PIE: Play in editor total start time 0,076 seconds.
+[2023.05.03-13.33.29:760][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.33.29:760][230]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.03-13.33.29:760][230]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-13.33.29:760][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-13.33.29:771][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-13.33.29:774][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-13.33.29:792][230]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-13.33.29:796][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.03-13.33.29:797][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.03-13.33.29:800][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.33.29:814][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.05.03-13.33.29:837][231]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.05.03-13.33.39:264][165]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.03-13.33.39:316][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.05.03-13.33.39:670][188]LogSavePackage: Moving 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/FirstPersonCharacter210AB2D148AA79363E12819C70489EFE.tmp' to 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.03-13.33.39:681][188]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.03-13.33.39:681][188]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.03-13.33.41:185][351]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.03-13.33.41:190][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-13.33.41:190][351]PIE: New page: PIE session: FirstPersonExampleMap (3 mai 2023 à 17:33:41)
+[2023.05.03-13.33.41:228][351]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.03-13.33.41:239][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010501s)
+[2023.05.03-13.33.41:240][351]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.03-13.33.41:240][351]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2023.05.03-13.33.41:240][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011903s)
+[2023.05.03-13.33.41:263][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.05.03-13.33.41:265][351]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.05.03-13.33.41:265][351]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-13.33.41:265][351]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-13.33.41:265][351]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-13.33.41:265][351]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-13.33.41:265][351]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.03-13.33.41:265][351]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.03-13.33.41:265][351]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.03-13.33.41:265][351]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-13.33.41:266][351]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-13.33.41:266][351]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-13.33.41:266][351]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-13.33.41:266][351]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.03-13.33.41:267][351]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.03-13.33.41:267][351]LogAudioMixer: Display: 1: FrontRight
+[2023.05.03-13.33.41:276][351]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2023.05.03-13.33.41:277][351]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-13.33.41:277][351]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-13.33.41:277][351]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-13.33.41:277][351]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.03-13.33.41:277][351]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.03-13.33.41:277][351]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.03-13.33.41:278][351]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.03-13.33.41:278][351]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.03-13.33.41:278][351]LogInit: FAudioDevice initialized.
+[2023.05.03-13.33.41:278][351]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2023.05.03-13.33.41:284][351]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.03-13.33.41:286][351]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.03-15.33.41
+[2023.05.03-13.33.41:286][351]LogWorld: Bringing up level for play took: 0.001342
+[2023.05.03-13.33.41:286][351]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2023.05.03-13.33.41:288][351]PIE: Server logged in
+[2023.05.03-13.33.41:288][351]PIE: Play in editor total start time 0,099 seconds.
+[2023.05.03-13.33.46:339][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.33.46:339][950]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.03-13.33.46:339][950]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-13.33.46:339][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-13.33.46:348][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-13.33.46:351][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-13.33.46:368][950]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-13.33.46:368][950]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.03-13.33.46:369][950]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.03-13.33.46:371][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.33.46:374][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.05.03-13.33.46:418][952]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.05.03-13.34.04:580][589]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.03-13.34.04:629][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.05.03-13.34.05:013][614]LogSavePackage: Moving 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/FirstPersonCharacter5560DD544B8B3638F50D91AE2B55413F.tmp' to 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.03-13.34.05:025][614]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.03-13.34.05:026][614]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.03-13.34.06:575][782]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.03-13.34.06:581][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-13.34.06:581][782]PIE: New page: PIE session: FirstPersonExampleMap (3 mai 2023 à 17:34:06)
+[2023.05.03-13.34.06:617][782]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.03-13.34.06:625][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008323s)
+[2023.05.03-13.34.06:626][782]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.03-13.34.06:627][782]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2023.05.03-13.34.06:627][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009953s)
+[2023.05.03-13.34.06:650][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.05.03-13.34.06:651][782]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.05.03-13.34.06:651][782]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-13.34.06:651][782]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-13.34.06:651][782]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-13.34.06:651][782]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-13.34.06:651][782]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.03-13.34.06:651][782]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.03-13.34.06:651][782]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.03-13.34.06:651][782]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-13.34.06:652][782]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-13.34.06:652][782]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-13.34.06:652][782]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-13.34.06:652][782]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.03-13.34.06:653][782]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.03-13.34.06:653][782]LogAudioMixer: Display: 1: FrontRight
+[2023.05.03-13.34.06:662][782]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2023.05.03-13.34.06:662][782]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-13.34.06:662][782]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-13.34.06:662][782]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-13.34.06:663][782]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.03-13.34.06:663][782]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.03-13.34.06:663][782]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.03-13.34.06:664][782]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.03-13.34.06:664][782]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.03-13.34.06:664][782]LogInit: FAudioDevice initialized.
+[2023.05.03-13.34.06:664][782]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2023.05.03-13.34.06:673][782]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.03-13.34.06:675][782]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.03-15.34.06
+[2023.05.03-13.34.06:675][782]LogWorld: Bringing up level for play took: 0.001279
+[2023.05.03-13.34.06:675][782]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.05.03-13.34.06:677][782]PIE: Server logged in
+[2023.05.03-13.34.06:677][782]PIE: Play in editor total start time 0,097 seconds.
+[2023.05.03-13.34.11:208][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.34.11:208][313]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.03-13.34.11:208][313]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-13.34.11:208][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-13.34.11:217][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-13.34.11:221][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-13.34.11:238][313]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-13.34.11:238][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.03-13.34.11:239][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.03-13.34.11:241][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.34.11:244][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.05.03-13.34.11:291][315]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.05.03-13.34.31:232][881]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.03-13.34.31:282][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.05.03-13.34.32:073][936]LogSavePackage: Moving 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/FirstPersonCharacterF75B9BAB434E796271890BBB6C017E82.tmp' to 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.03-13.34.32:083][936]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.03-13.34.32:083][936]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.03-13.35.23:007][854]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.03-13.35.23:035][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.05.03-13.35.23:349][887]LogSavePackage: Moving 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/FirstPersonCharacter4504A70D44695F100FECB2AAC456D5F4.tmp' to 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.03-13.35.23:355][887]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.03-13.35.23:355][887]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.03-13.35.24:574][124]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.03-13.35.24:576][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-13.35.24:576][124]PIE: New page: PIE session: FirstPersonExampleMap (3 mai 2023 à 17:35:24)
+[2023.05.03-13.35.24:589][124]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.03-13.35.24:593][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007394s)
+[2023.05.03-13.35.24:594][124]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.03-13.35.24:594][124]LogPlayLevel: PIE: World Init took: (0.001408s)
+[2023.05.03-13.35.24:594][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009005s)
+[2023.05.03-13.35.24:607][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.05.03-13.35.24:608][124]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.05.03-13.35.24:608][124]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-13.35.24:608][124]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-13.35.24:608][124]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-13.35.24:608][124]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-13.35.24:608][124]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.03-13.35.24:608][124]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.03-13.35.24:608][124]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.03-13.35.24:608][124]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-13.35.24:608][124]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-13.35.24:608][124]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-13.35.24:608][124]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-13.35.24:608][124]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.03-13.35.24:609][124]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.03-13.35.24:609][124]LogAudioMixer: Display: 1: FrontRight
+[2023.05.03-13.35.24:615][124]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2023.05.03-13.35.24:615][124]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-13.35.24:615][124]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-13.35.24:615][124]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-13.35.24:615][124]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.03-13.35.24:615][124]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.03-13.35.24:615][124]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.03-13.35.24:615][124]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.03-13.35.24:615][124]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.03-13.35.24:615][124]LogInit: FAudioDevice initialized.
+[2023.05.03-13.35.24:615][124]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2023.05.03-13.35.24:621][124]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.03-13.35.24:622][124]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.03-15.35.24
+[2023.05.03-13.35.24:622][124]LogWorld: Bringing up level for play took: 0.001249
+[2023.05.03-13.35.24:622][124]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.05.03-13.35.24:623][124]PIE: Server logged in
+[2023.05.03-13.35.24:623][124]PIE: Play in editor total start time 0,083 seconds.
+[2023.05.03-13.35.41:889][790]LogScript: Warning: Accessed None trying to read property HoldedItem
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0C49
+[2023.05.03-13.35.41:889][790]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:889][790]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0C5E
+[2023.05.03-13.35.41:889][790]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:893][791]LogScript: Warning: Accessed None trying to read property HoldedItem
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0C49
+[2023.05.03-13.35.41:894][791]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:894][791]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0C5E
+[2023.05.03-13.35.41:894][791]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:898][792]LogScript: Warning: Accessed None trying to read property HoldedItem
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0C49
+[2023.05.03-13.35.41:898][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:898][792]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0C5E
+[2023.05.03-13.35.41:898][792]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:903][793]LogScript: Warning: Accessed None trying to read property HoldedItem
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0C49
+[2023.05.03-13.35.41:903][793]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:903][793]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0C5E
+[2023.05.03-13.35.41:903][793]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:908][794]LogScript: Warning: Accessed None trying to read property HoldedItem
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0C49
+[2023.05.03-13.35.41:908][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:908][794]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0C5E
+[2023.05.03-13.35.41:908][794]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:912][795]LogScript: Warning: Accessed None trying to read property HoldedItem
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0C49
+[2023.05.03-13.35.41:912][795]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:912][795]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0C5E
+[2023.05.03-13.35.41:912][795]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:917][796]LogScript: Warning: Accessed None trying to read property HoldedItem
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0C49
+[2023.05.03-13.35.41:917][796]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:917][796]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0C5E
+[2023.05.03-13.35.41:917][796]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:922][797]LogScript: Warning: Accessed None trying to read property HoldedItem
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0C49
+[2023.05.03-13.35.41:922][797]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:922][797]LogScript: Warning: Accessed None
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0C5E
+[2023.05.03-13.35.41:922][797]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:926][798]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:926][798]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:931][799]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:931][799]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:936][800]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:936][800]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:940][801]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:940][801]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:945][802]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:945][802]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:950][803]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:950][803]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:955][804]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:955][804]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:959][805]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:960][805]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:964][806]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:964][806]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:969][807]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:969][807]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:974][808]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:974][808]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:978][809]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:978][809]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:983][810]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:983][810]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:988][811]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:988][811]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:992][812]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:992][812]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:997][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.41:997][813]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:002][814]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:002][814]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:006][815]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:006][815]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:011][816]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:011][816]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:015][817]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:016][817]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:021][818]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:021][818]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:025][819]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:025][819]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:030][820]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:030][820]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:035][821]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:035][821]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:039][822]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:039][822]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:044][823]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:044][823]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:049][824]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:049][824]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:053][825]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:053][825]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:058][826]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:058][826]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:063][827]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:063][827]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:067][828]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:067][828]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:072][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:072][829]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:077][830]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:077][830]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:081][831]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:081][831]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:087][832]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:087][832]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:091][833]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:091][833]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:096][834]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:096][834]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:101][835]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:101][835]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:105][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:105][836]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:110][837]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:110][837]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:115][838]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:115][838]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:119][839]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:120][839]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:124][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:124][840]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:129][841]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:129][841]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:134][842]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:134][842]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:138][843]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:138][843]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:143][844]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:143][844]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:148][845]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:148][845]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:152][846]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:152][846]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:157][847]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:157][847]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:162][848]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:162][848]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:166][849]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:166][849]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:171][850]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:171][850]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:176][851]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:176][851]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:180][852]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:180][852]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:185][853]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:185][853]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:190][854]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:190][854]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:194][855]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:194][855]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:200][856]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:200][856]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:204][857]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:204][857]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:209][858]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:209][858]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:214][859]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:214][859]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:218][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:218][860]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:223][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:223][861]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:228][862]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:228][862]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:232][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:232][863]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:237][864]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:237][864]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:242][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:242][865]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:246][866]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:247][866]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:251][867]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:251][867]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:256][868]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:256][868]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:260][869]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:261][869]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:265][870]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:265][870]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:270][871]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:270][871]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:275][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:275][872]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:279][873]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:279][873]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:284][874]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:284][874]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:289][875]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:289][875]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:293][876]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:293][876]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:298][877]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:298][877]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:303][878]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:303][878]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:308][879]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:308][879]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:312][880]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:313][880]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:317][881]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:317][881]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:322][882]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:322][882]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:327][883]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:327][883]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:331][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:331][884]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:336][885]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:336][885]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:341][886]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:341][886]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:345][887]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:345][887]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:350][888]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:350][888]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:355][889]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:355][889]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:359][890]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:359][890]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:364][891]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HoldedItem". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:364][891]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  SetWorldLocation
+[2023.05.03-13.35.42:866][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.35.42:866][995]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.03-13.35.42:867][995]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-13.35.42:867][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-13.35.42:870][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-13.35.42:873][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-13.35.42:883][995]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-13.35.42:883][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.03-13.35.42:883][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.03-13.35.42:884][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.35.42:886][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.05.03-13.35.42:947][996]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.05.03-13.35.43:949][153]LogSlate: Window 'Message Log' being destroyed
+[2023.05.03-13.35.43:951][153]LogSlate: Window 'Message Log' being destroyed
+[2023.05.03-13.36.04:100][931]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.03-13.36.04:128][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.05.03-13.36.04:394][959]LogSavePackage: Moving 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/FirstPersonCharacterA3B730CF47B16ED4ECA6B6913C582771.tmp' to 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.03-13.36.04:400][959]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.03-13.36.04:400][959]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.03-13.36.05:569][165]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.03-13.36.05:572][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-13.36.05:572][165]PIE: New page: PIE session: FirstPersonExampleMap (3 mai 2023 à 17:36:05)
+[2023.05.03-13.36.05:593][165]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.03-13.36.05:598][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008221s)
+[2023.05.03-13.36.05:599][165]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.03-13.36.05:599][165]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2023.05.03-13.36.05:599][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009635s)
+[2023.05.03-13.36.05:612][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.05.03-13.36.05:613][165]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.05.03-13.36.05:613][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-13.36.05:613][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-13.36.05:613][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-13.36.05:613][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-13.36.05:613][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.03-13.36.05:613][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.03-13.36.05:613][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.03-13.36.05:613][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-13.36.05:613][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-13.36.05:613][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-13.36.05:613][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-13.36.05:613][165]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.03-13.36.05:614][165]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.03-13.36.05:614][165]LogAudioMixer: Display: 1: FrontRight
+[2023.05.03-13.36.05:619][165]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2023.05.03-13.36.05:620][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-13.36.05:620][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-13.36.05:620][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-13.36.05:620][165]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.03-13.36.05:620][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.03-13.36.05:620][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.03-13.36.05:620][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.03-13.36.05:620][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.03-13.36.05:620][165]LogInit: FAudioDevice initialized.
+[2023.05.03-13.36.05:620][165]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2023.05.03-13.36.05:623][165]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.03-13.36.05:624][165]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.03-15.36.05
+[2023.05.03-13.36.05:624][165]LogWorld: Bringing up level for play took: 0.001281
+[2023.05.03-13.36.05:624][165]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.05.03-13.36.05:625][165]PIE: Server logged in
+[2023.05.03-13.36.05:625][165]PIE: Play in editor total start time 0,095 seconds.
+[2023.05.03-13.36.09:802][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.36.09:802][ 34]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.03-13.36.09:803][ 34]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-13.36.09:804][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-13.36.09:808][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-13.36.09:809][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-13.36.09:819][ 34]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-13.36.09:819][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.03-13.36.09:819][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.03-13.36.09:821][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.36.09:822][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.05.03-13.36.09:836][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.05.03-13.36.10:654][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.05.03-13.36.10:662][202]LogSavePackage: Moving 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/FirstPersonExampleMap37E0A1664F47DAA1206B8D9ACFF095F8.tmp' to 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.05.03-13.36.10:681][202]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2023.05.03-13.36.10:681][202]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.05.03-13.36.12:453][577]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.03-13.36.12:456][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-13.36.12:456][577]PIE: New page: PIE session: FirstPersonExampleMap (3 mai 2023 à 17:36:12)
+[2023.05.03-13.36.12:473][577]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.03-13.36.12:477][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007494s)
+[2023.05.03-13.36.12:478][577]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.03-13.36.12:478][577]LogPlayLevel: PIE: World Init took: (0.001313s)
+[2023.05.03-13.36.12:478][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009000s)
+[2023.05.03-13.36.12:490][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.05.03-13.36.12:491][577]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.05.03-13.36.12:491][577]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-13.36.12:491][577]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-13.36.12:491][577]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-13.36.12:491][577]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-13.36.12:491][577]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.03-13.36.12:491][577]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.03-13.36.12:491][577]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.03-13.36.12:491][577]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-13.36.12:491][577]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-13.36.12:491][577]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-13.36.12:491][577]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-13.36.12:491][577]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.03-13.36.12:492][577]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.03-13.36.12:492][577]LogAudioMixer: Display: 1: FrontRight
+[2023.05.03-13.36.12:497][577]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2023.05.03-13.36.12:497][577]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-13.36.12:497][577]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-13.36.12:497][577]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-13.36.12:497][577]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.03-13.36.12:497][577]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.03-13.36.12:497][577]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.03-13.36.12:497][577]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.03-13.36.12:497][577]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.03-13.36.12:497][577]LogInit: FAudioDevice initialized.
+[2023.05.03-13.36.12:497][577]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2023.05.03-13.36.12:500][577]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.03-13.36.12:501][577]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.03-15.36.12
+[2023.05.03-13.36.12:501][577]LogWorld: Bringing up level for play took: 0.001282
+[2023.05.03-13.36.12:501][577]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.05.03-13.36.12:502][577]PIE: Server logged in
+[2023.05.03-13.36.12:503][577]PIE: Play in editor total start time 0,083 seconds.
+[2023.05.03-13.36.13:981][887]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Item added
+[2023.05.03-13.36.15:439][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.36.15:439][192]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.03-13.36.15:439][192]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-13.36.15:439][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-13.36.15:445][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-13.36.15:448][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-13.36.15:457][192]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-13.36.15:457][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.03-13.36.15:457][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.03-13.36.15:459][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.36.15:460][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.05.03-13.36.15:484][194]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.05.03-13.36.21:482][151]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlacingItems.BP_PlacingItems
+[2023.05.03-13.36.40:464][331]BlueprintLog: New page: Compile BP_InspectableItemParent
+[2023.05.03-13.36.40:496][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.05.03-13.36.40:728][362]LogSavePackage: Moving 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/BP_InspectableItemParent174B9DCE4ECF12DD136EC7A222490B7B.tmp' to 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/FirstPersonBP/Blueprints/BP_InspectableItemParent.uasset'
+[2023.05.03-13.36.40:736][362]AssetCheck: New page: Asset Save: BP_InspectableItemParent
+[2023.05.03-13.36.40:736][362]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BP_InspectableItemParent.BP_InspectableItemParent
+[2023.05.03-13.36.47:353][674]BlueprintLog: New page: Compile BP_InspectableItemParent
+[2023.05.03-13.36.47:378][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.05.03-13.36.47:677][711]LogSavePackage: Moving 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/BP_InspectableItemParent204CA483408ADD8F26F7539ACD72A366.tmp' to 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/FirstPersonBP/Blueprints/BP_InspectableItemParent.uasset'
+[2023.05.03-13.36.47:684][711]AssetCheck: New page: Asset Save: BP_InspectableItemParent
+[2023.05.03-13.36.47:684][711]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BP_InspectableItemParent.BP_InspectableItemParent
+[2023.05.03-13.36.51:344][473]LogTemp: Repeating last play command: Selected Viewport
+[2023.05.03-13.36.51:347][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.03-13.36.51:347][473]PIE: New page: PIE session: FirstPersonExampleMap (3 mai 2023 à 17:36:51)
+[2023.05.03-13.36.51:365][473]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.03-13.36.51:370][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008777s)
+[2023.05.03-13.36.51:370][473]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2023.05.03-13.36.51:370][473]LogPlayLevel: PIE: World Init took: (0.001242s)
+[2023.05.03-13.36.51:370][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010215s)
+[2023.05.03-13.36.51:385][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.05.03-13.36.51:386][473]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.05.03-13.36.51:386][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.03-13.36.51:386][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.03-13.36.51:386][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.03-13.36.51:386][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.03-13.36.51:386][473]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.03-13.36.51:386][473]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.03-13.36.51:386][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.03-13.36.51:386][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.03-13.36.51:386][473]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.03-13.36.51:386][473]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.03-13.36.51:386][473]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.03-13.36.51:386][473]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.03-13.36.51:387][473]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.03-13.36.51:387][473]LogAudioMixer: Display: 1: FrontRight
+[2023.05.03-13.36.51:392][473]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2023.05.03-13.36.51:392][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.03-13.36.51:392][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.03-13.36.51:392][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.03-13.36.51:392][473]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.03-13.36.51:392][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.03-13.36.51:392][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.03-13.36.51:392][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.03-13.36.51:392][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.03-13.36.51:393][473]LogInit: FAudioDevice initialized.
+[2023.05.03-13.36.51:393][473]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonExampleMap'.
+[2023.05.03-13.36.51:397][473]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2023.05.03-13.36.51:399][473]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2023.05.03-15.36.51
+[2023.05.03-13.36.51:399][473]LogWorld: Bringing up level for play took: 0.001286
+[2023.05.03-13.36.51:399][473]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.05.03-13.36.51:400][473]PIE: Server logged in
+[2023.05.03-13.36.51:400][473]PIE: Play in editor total start time 0,094 seconds.
+[2023.05.03-13.36.52:779][764]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Item added
+[2023.05.03-13.36.57:213][706]LogBlueprintUserMessages: [WBP_Inventory_C_0] Show the item
+[2023.05.03-13.37.03:642][ 72]LogBlueprintUserMessages: [BP_MyPlayerController_C_0] Item added
+[2023.05.03-13.37.04:654][287]LogBlueprintUserMessages: [WBP_Inventory_C_0] Show the item
+[2023.05.03-13.37.07:812][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.37.07:812][953]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2023.05.03-13.37.07:812][953]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.03-13.37.07:812][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-13.37.07:816][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.03-13.37.07:819][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.03-13.37.07:829][953]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.03-13.37.07:829][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.03-13.37.07:830][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.03-13.37.07:831][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.03-13.37.07:833][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.05.03-13.37.07:846][954]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.05.03-13.37.08:662][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.05.03-13.37.08:670][121]LogSavePackage: Moving 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/FirstPersonExampleMapFD9612E24812F38CB67675833AA9B4BA.tmp' to 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2023.05.03-13.37.08:681][121]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2023.05.03-13.37.08:681][121]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2023.05.03-13.37.38:332][262]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.03-13.37.38:364][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.05.03-13.37.38:665][293]LogSavePackage: Moving 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/FirstPersonCharacter9270018247D0C9B0984EBA88843D7DC6.tmp' to 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.03-13.37.38:671][293]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.03-13.37.38:671][293]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2023.05.03-13.37.51:975][166]BlueprintLog: New page: Compile FirstPersonCharacter
+[2023.05.03-13.37.52:032][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.05.03-13.37.52:490][195]LogSavePackage: Moving 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Saved/FirstPersonCharacter3BE45DB444D5028F8B3F879E35DD42B5.tmp' to 'C:/Users/g.deleporte/Documents/LockedMind/LockedMind/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2023.05.03-13.37.52:503][195]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2023.05.03-13.37.52:503][195]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
