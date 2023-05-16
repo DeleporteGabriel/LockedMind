@@ -959,6 +959,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.16-12.13.38:292][487]LogSavePackage: Moving '../../../../DeleporteG/LockedMind/LockedMind/Saved/MansionV3_InfiniteDoorway36FFE27224507A8029AC8429F13CFA2DB.tmp' to '../../../../DeleporteG/LockedMind/LockedMind/Content/Maps/MansionV3_InfiniteDoorway3.umap'
 [2023.05.16-12.13.38:298][487]AssetCheck: New page: Asset Save: MansionV3_InfiniteDoorway3
 [2023.05.16-12.13.38:298][487]LogContentValidation: Display: Validating World /Game/Maps/MansionV3_InfiniteDoorway3.MansionV3_InfiniteDoorway3
+<<<<<<< HEAD
 [2023.05.16-12.14.36:340][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
 [2023.05.16-12.14.38:406][531]LogSlate: Window 'Save Content' being destroyed
 [2023.05.16-12.14.38:438][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/IntermediateV1_2" FILE="../../../../DeleporteG/LockedMind/LockedMind/Content/Maps/IntermediateV1_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
@@ -1467,3 +1468,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.16-12.14.41:595][532]LogD3D11RHI: CleanupD3DDevice
 [2023.05.16-12.14.41:597][532]LogExit: Exiting.
 [2023.05.16-12.14.41:639][532]Log file closed, 05/16/23 14:14:41
+=======
+>>>>>>> DeleporteGabriel_main
