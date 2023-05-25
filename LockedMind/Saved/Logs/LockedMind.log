@@ -1398,3 +1398,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.25-13.27.43:026][534]LogD3D11RHI: Shutdown
 [2023.05.25-13.27.43:026][534]LogD3D11RHI: CleanupD3DDevice
 [2023.05.25-13.27.43:027][534]LogExit: Exiting.
+[2023.05.25-13.27.43:087][534]Log file closed, 05/25/23 15:27:43
